@@ -6,6 +6,46 @@
   <component name="ChangeListManager">
     <list default="true" id="a78690cf-e02c-44eb-a180-202aed45b993" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/movie-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/movie-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodemon" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nodemon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodemon.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nodemon.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodemon.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodetouch" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nodetouch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodetouch.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nodetouch.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodetouch.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mquery/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mquery/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mquery/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mquery/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/license.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/license.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-inspect/test/quoteStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-inspect/test/quoteStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +72,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -56,6 +96,7 @@
       <workItem from="1731325838527" duration="274000" />
       <workItem from="1731338980004" duration="966000" />
       <workItem from="1731404639962" duration="1951000" />
+      <workItem from="1731429789187" duration="2956000" />
     </task>
     <servers />
   </component>
