@@ -7,7 +7,7 @@ const movieRoutes = require('./routes/movie-routes');
 // Настройка CORS
 const corsOptions = {
     origin: 'http://localhost:5173',  // Заменить на нужный домен или массив доменов или разрешить все домены '*'
-    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Разрешаем HTTP-методы
+    methods: ['GET', 'POST', 'PATCH', 'DELETE'], // Разрешаем HTTP-методы
     allowedHeaders: ['Content-Type', 'Authorization'],  //Разрешаем заголовки
     credentials: true,              // Разрешить отправку куки и авторизационных данных
 };
